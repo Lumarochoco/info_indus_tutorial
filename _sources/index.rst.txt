@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-DrAmBy_info_indus_tutorial documentation
+DrAmBy_info_indus_tutorial documentation :
 ========================================
 
 Add your content using ``reStructuredText`` syntax. See the
