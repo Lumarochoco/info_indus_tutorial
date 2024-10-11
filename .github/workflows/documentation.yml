@@ -39,7 +39,7 @@ jobs:
             cp -r ./doc/sphinx/build/html/* gh-pages/
             cd gh-pages
             git config --local user.email "romain.degrace@gmail.com"
-            git config --local user.name "Lumarochoco"
+            git config --local user.name "Lumaro"
             touch .nojekyll
             git add .
             git commit -m "Update documentation" -a || true
